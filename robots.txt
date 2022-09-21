@@ -1,0 +1,4 @@
+Sitemap: https://exclusiveboatsaruba.com/sitemap.xml
+User-agent: *
+Disallow: /cgi-bin
+
