@@ -4328,9 +4328,7 @@ a {
   transform: translateY(-5px);
 }
 .cid-sVRuvNT1MQ {
-  padding-top: 8rem;
-  padding-bottom: 6rem;
-  background-image: url("../../../assets/images/exclusive-boat-aruba-vip-gallery.webp");
+  background-image: url("../../../assets/images/exclusive-boat-aruba-vip-gallery-1440x879.jpg");
 }
 .cid-sVRuvNT1MQ .mbr-section-title {
   color: #ffffff;
@@ -4361,70 +4359,70 @@ a {
 .cid-t3M7OERipt .mbr-section-subtitle {
   color: #232323;
 }
-.cid-t3M75sCOix {
-  padding-top: 0rem;
-  padding-bottom: 1rem;
+.cid-tjFrgSuNQm {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-color: #ffffff;
 }
 @media (min-width: 992px) {
-  .cid-t3M75sCOix .carousel {
+  .cid-tjFrgSuNQm .carousel {
     min-height: 500px;
   }
-  .cid-t3M75sCOix .carousel img {
+  .cid-tjFrgSuNQm .carousel img {
     max-height: 500px;
     object-fit: contain;
   }
 }
 @media (max-width: 991px) and (min-width: 768px) {
-  .cid-t3M75sCOix .carousel {
+  .cid-tjFrgSuNQm .carousel {
     min-height: 325px;
   }
-  .cid-t3M75sCOix .carousel img {
+  .cid-tjFrgSuNQm .carousel img {
     max-height: 325px;
     object-fit: contain;
   }
 }
 @media (max-width: 767px) {
-  .cid-t3M75sCOix .carousel {
+  .cid-tjFrgSuNQm .carousel {
     min-height: 275px;
   }
-  .cid-t3M75sCOix .carousel img {
+  .cid-tjFrgSuNQm .carousel img {
     max-height: 275px;
     object-fit: contain;
   }
-  .cid-t3M75sCOix .container .carousel-control {
+  .cid-tjFrgSuNQm .container .carousel-control {
     margin-bottom: 0;
   }
-  .cid-t3M75sCOix .content-slider-wrap {
+  .cid-tjFrgSuNQm .content-slider-wrap {
     width: 100% !important;
   }
 }
-.cid-t3M75sCOix .carousel,
-.cid-t3M75sCOix .carousel-inner {
+.cid-tjFrgSuNQm .carousel,
+.cid-tjFrgSuNQm .carousel-inner {
   display: flex;
   align-items: center;
 }
-.cid-t3M75sCOix .item-wrapper {
+.cid-tjFrgSuNQm .item-wrapper {
   width: 100%;
 }
-.cid-t3M75sCOix .carousel-caption {
+.cid-tjFrgSuNQm .carousel-caption {
   bottom: 40px;
 }
-.cid-t3M75sCOix .carousel-control:hover {
+.cid-tjFrgSuNQm .carousel-control:hover {
   background: #1b1b1b;
   color: #fff;
   opacity: 1;
 }
-.cid-t3M75sCOix .mobi-mbri-arrow-next {
+.cid-tjFrgSuNQm .mobi-mbri-arrow-next {
   margin-left: 5px;
 }
-.cid-t3M75sCOix .mobi-mbri-arrow-prev {
+.cid-tjFrgSuNQm .mobi-mbri-arrow-prev {
   margin-right: 5px;
 }
-.cid-t3M75sCOix .container .carousel-indicators {
+.cid-tjFrgSuNQm .container .carousel-indicators {
   margin-bottom: 3px;
 }
-.cid-t3M75sCOix .carousel-control {
+.cid-tjFrgSuNQm .carousel-control {
   top: 50%;
   width: 60px;
   height: 60px;
@@ -4435,26 +4433,26 @@ a {
   border-radius: 50%;
   transition: all 0.3s;
 }
-.cid-t3M75sCOix .carousel-control.carousel-control-prev {
+.cid-tjFrgSuNQm .carousel-control.carousel-control-prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-t3M75sCOix .carousel-control.carousel-control-next {
+.cid-tjFrgSuNQm .carousel-control.carousel-control-next {
   right: 0;
   margin-right: 2.5rem;
 }
 @media (max-width: 767px) {
-  .cid-t3M75sCOix .carousel-control {
+  .cid-tjFrgSuNQm .carousel-control {
     top: auto;
     bottom: 1rem;
   }
 }
-.cid-t3M75sCOix .carousel-indicators {
+.cid-tjFrgSuNQm .carousel-indicators {
   position: absolute;
   bottom: 0;
   margin-bottom: 1.5rem !important;
 }
-.cid-t3M75sCOix .carousel-indicators li {
+.cid-tjFrgSuNQm .carousel-indicators li {
   max-width: 15px;
   height: 15px;
   width: 15px;
@@ -4466,15 +4464,15 @@ a {
   opacity: 0.5;
   transition: all 0.3s;
 }
-.cid-t3M75sCOix .carousel-indicators li.active,
-.cid-t3M75sCOix .carousel-indicators li:hover {
+.cid-tjFrgSuNQm .carousel-indicators li.active,
+.cid-tjFrgSuNQm .carousel-indicators li:hover {
   opacity: 0.9;
 }
-.cid-t3M75sCOix .carousel-indicators li::after,
-.cid-t3M75sCOix .carousel-indicators li::before {
+.cid-tjFrgSuNQm .carousel-indicators li::after,
+.cid-tjFrgSuNQm .carousel-indicators li::before {
   content: none;
 }
-.cid-t3M75sCOix .carousel-indicators.ie-fix {
+.cid-tjFrgSuNQm .carousel-indicators.ie-fix {
   left: 50%;
   display: block;
   width: 60%;
@@ -4482,7 +4480,7 @@ a {
   text-align: center;
 }
 @media (max-width: 768px) {
-  .cid-t3M75sCOix .carousel-indicators {
+  .cid-tjFrgSuNQm .carousel-indicators {
     display: none !important;
   }
 }
@@ -9232,8 +9230,6 @@ a {
   transform: translateY(-5px);
 }
 .cid-sXLczvHFjB {
-  padding-top: 8rem;
-  padding-bottom: 6rem;
   background-image: url("../../../assets/images/exclusive-boat-luxury-yacht-charters-aruba.webp");
 }
 .cid-sXLczvHFjB .mbr-section-title {
@@ -9265,27 +9261,27 @@ a {
 .cid-t53ou0Qfo1 .mbr-section-title {
   color: #000000;
 }
-.cid-t8iOv5w3JZ {
+.cid-tjFwGhGXvM {
   padding-top: 0rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
-.cid-t8iOv5w3JZ img,
-.cid-t8iOv5w3JZ .item-img {
+.cid-tjFwGhGXvM img,
+.cid-tjFwGhGXvM .item-img {
   width: 100%;
   height: 100%;
   height: 300px;
   object-fit: cover;
 }
-.cid-t8iOv5w3JZ .item:focus,
-.cid-t8iOv5w3JZ span:focus {
+.cid-tjFwGhGXvM .item:focus,
+.cid-tjFwGhGXvM span:focus {
   outline: none;
 }
-.cid-t8iOv5w3JZ .item {
+.cid-tjFwGhGXvM .item {
   cursor: pointer;
   margin-bottom: 2rem;
 }
-.cid-t8iOv5w3JZ .item-wrapper {
+.cid-tjFwGhGXvM .item-wrapper {
   position: relative;
   border-radius: 4px;
   background: #fafafa;
@@ -9294,34 +9290,34 @@ a {
   flex-flow: column nowrap;
 }
 @media (min-width: 992px) {
-  .cid-t8iOv5w3JZ .item-wrapper .item-content {
+  .cid-tjFwGhGXvM .item-wrapper .item-content {
     padding: 2rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-t8iOv5w3JZ .item-wrapper .item-content {
+  .cid-tjFwGhGXvM .item-wrapper .item-content {
     padding: 1rem;
   }
 }
-.cid-t8iOv5w3JZ .mbr-section-btn {
+.cid-tjFwGhGXvM .mbr-section-btn {
   margin-top: auto !important;
 }
-.cid-t8iOv5w3JZ .mbr-section-title {
+.cid-tjFwGhGXvM .mbr-section-title {
   color: #faaf45;
 }
-.cid-t8iOv5w3JZ .mbr-text,
-.cid-t8iOv5w3JZ .mbr-section-btn {
+.cid-tjFwGhGXvM .mbr-text,
+.cid-tjFwGhGXvM .mbr-section-btn {
   text-align: left;
   color: #353535;
 }
-.cid-t8iOv5w3JZ .item-title {
+.cid-tjFwGhGXvM .item-title {
   text-align: left;
   color: #000000;
 }
-.cid-t8iOv5w3JZ .item-subtitle {
+.cid-tjFwGhGXvM .item-subtitle {
   text-align: left;
 }
-.cid-t8iOv5w3JZ .mbr-section-subtitle {
+.cid-tjFwGhGXvM .mbr-section-subtitle {
   color: #232323;
 }
 .cid-t5zeNE7HZM {
@@ -21106,27 +21102,27 @@ a {
   height: 2px;
   margin: 0 auto;
 }
-.cid-tcqNsENWE5 {
+.cid-tjFxEYnq7G {
   padding-top: 1rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
-.cid-tcqNsENWE5 img,
-.cid-tcqNsENWE5 .item-img {
+.cid-tjFxEYnq7G img,
+.cid-tjFxEYnq7G .item-img {
   width: 100%;
   height: 100%;
   height: 300px;
   object-fit: cover;
 }
-.cid-tcqNsENWE5 .item:focus,
-.cid-tcqNsENWE5 span:focus {
+.cid-tjFxEYnq7G .item:focus,
+.cid-tjFxEYnq7G span:focus {
   outline: none;
 }
-.cid-tcqNsENWE5 .item {
+.cid-tjFxEYnq7G .item {
   cursor: pointer;
   margin-bottom: 2rem;
 }
-.cid-tcqNsENWE5 .item-wrapper {
+.cid-tjFxEYnq7G .item-wrapper {
   position: relative;
   border-radius: 4px;
   background: #fafafa;
@@ -21135,34 +21131,34 @@ a {
   flex-flow: column nowrap;
 }
 @media (min-width: 992px) {
-  .cid-tcqNsENWE5 .item-wrapper .item-content {
+  .cid-tjFxEYnq7G .item-wrapper .item-content {
     padding: 2rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-tcqNsENWE5 .item-wrapper .item-content {
+  .cid-tjFxEYnq7G .item-wrapper .item-content {
     padding: 1rem;
   }
 }
-.cid-tcqNsENWE5 .mbr-section-btn {
+.cid-tjFxEYnq7G .mbr-section-btn {
   margin-top: auto !important;
 }
-.cid-tcqNsENWE5 .mbr-section-title {
+.cid-tjFxEYnq7G .mbr-section-title {
   color: #faaf45;
 }
-.cid-tcqNsENWE5 .mbr-text,
-.cid-tcqNsENWE5 .mbr-section-btn {
+.cid-tjFxEYnq7G .mbr-text,
+.cid-tjFxEYnq7G .mbr-section-btn {
   text-align: left;
   color: #353535;
 }
-.cid-tcqNsENWE5 .item-title {
+.cid-tjFxEYnq7G .item-title {
   text-align: left;
   color: #faaf45;
 }
-.cid-tcqNsENWE5 .item-subtitle {
+.cid-tjFxEYnq7G .item-subtitle {
   text-align: left;
 }
-.cid-tcqNsENWE5 .mbr-section-subtitle {
+.cid-tjFxEYnq7G .mbr-section-subtitle {
   color: #232323;
 }
 .cid-tcqNsFS0Lb {
